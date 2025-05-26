@@ -1,0 +1,41 @@
+[{
+    "description": "A boy reading a book in the dark.", 
+    "external_url": "https://www.kba.in", 
+    "image": "https://ivory-imaginative-warbler-305.mypinata.cloud/ipfs/bafybeiei3lwltibhvdfpkorluvrb2cd4is6pej3ovci3xzh6xrmp4nmy2q", 
+    "name": "Reading Book",
+    "attributes": [ 
+        {
+            "trait_type": "Person", 
+            "value": "Boy"
+          }, 
+          {
+            "trait_type": "Object", 
+            "value": "Book"
+          }, 
+          {
+            "trait_type": "Theme", 
+            "value": "Dark"
+          }
+     ]
+  },
+  {
+    "description": "Some shells laying in beach sand.", 
+    "external_url": "https://www.kba.in", 
+    "image": "https://ivory-imaginative-warbler-305.mypinata.cloud/ipfs/bafybeiepoiyhksn5yrc23dbslvcgaivhhvzmiqbm3e2matepvmj2t42fia", 
+    "name": "Beach sand",
+    "attributes": [ 
+        {
+            "trait_type": "Area", 
+            "value": "Beach"
+          }, 
+          {
+            "trait_type": "Type", 
+            "value": "Sand"
+          }, 
+          {
+            "trait_type": "Object", 
+            "value": "Shells"
+          }
+     ]
+  }
+]
